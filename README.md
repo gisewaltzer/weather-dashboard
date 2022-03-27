@@ -12,7 +12,7 @@ I travel every week for work and I need to see the weather outlook for multiple 
 * cloudflare.com for weather icons
 
 ## Images
-![](assets/images/screenshot weather-dashboard.png)
+![](assets/images/weatherdash.png)
 
 ## Website
 https://gisewaltzer.github.io/weather-dashboard/

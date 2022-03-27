@@ -1,0 +1,25 @@
+form {
+  width: 100%;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+nav > h1 {
+  color: white;
+  position: relative;
+}
+
+nav {
+  background-color: #2B2877;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+.forecast > div > div {
+  background-color: #32475A;
+  color: white;
+}
